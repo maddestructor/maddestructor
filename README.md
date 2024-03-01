@@ -24,11 +24,11 @@
 ## 💻 My Favorite Tools:
 
 [![Rider, VS Code, Bash, Postman, Discord, Notion, Linux, Windows](https://skillicons.dev/icons?i=rider,vscode,bash,postman,discord,notion,linux,windows)](https://skillicons.dev)
-<!---## 
+<!---
 ## 📖 Read My Blogs:
 
 <p>
-    <!---<a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;--->
+    <a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 --->
 
