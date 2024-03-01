@@ -34,7 +34,7 @@
 
 ## 🏆 My Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddestructor" alt="maddestructor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddestructor&rank=-C,-B" alt="maddestructor" /></a> </p>
 <!---## 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maddestructor&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
