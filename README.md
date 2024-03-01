@@ -24,19 +24,23 @@
 ## 💻 My Favorite Tools:
 
 [![Rider, VS Code, Bash, Postman, Discord, Notion, Linux, Windows](https://skillicons.dev/icons?i=rider,vscode,bash,postman,discord,notion,linux,windows)](https://skillicons.dev)
-
+<!---## 
 ## 📖 Read My Blogs:
 
 <p>
     <!---<a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;--->
 </p>
+--->
 
 ## 🏆 My Stats:
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddestructor" alt="maddestructor" /></a> </p>
+<!---## 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maddestructor&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddestructor&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
+--->
 
 <!---## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
 
